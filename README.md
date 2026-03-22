@@ -69,6 +69,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+ABOUT MENU :-
+<img width="1919" height="982" alt="Capture" src="https://github.com/user-attachments/assets/7474ec31-2f71-4552-a66d-b71d494f06a5" />
+
+SKILL MENU :-
+<img width="1911" height="967" alt="cap2" src="https://github.com/user-attachments/assets/fd4946fb-f598-493c-bb48-66d945619db3" />
+
+PROJECT MENU :-
+<img width="1920" height="992" alt="cap3" src="https://github.com/user-attachments/assets/307fbc2f-ed94-41c4-acc0-bb655eac4bb6" />
+
+CONTACT MENU :-
+<img width="1915" height="988" alt="cap4" src="https://github.com/user-attachments/assets/9d87e56f-dae4-4dfb-83a7-8745b4a837ca" />
+
 Create a free account at [EmailJS](https://www.emailjs.com/).
 
 Create a **Email Service** (e.g., Gmail) and an **Email Template**.
