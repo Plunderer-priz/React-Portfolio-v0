@@ -84,3 +84,5 @@ CONTACT MENU :-
 Create a free account at [EmailJS](https://www.emailjs.com/).
 
 Create a **Email Service** (e.g., Gmail) and an **Email Template**.
+
+Update .env file.
